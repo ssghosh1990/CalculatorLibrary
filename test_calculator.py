@@ -1,7 +1,7 @@
-
 """
 Unit tests for calculator library
 """
+
 
 import calculator
 
