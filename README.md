@@ -1,1 +1,1 @@
-# CalculatorLibrary
+# CalculatorLibrary - This is a sample project
